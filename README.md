@@ -11,13 +11,19 @@ a Backend API to manage their orders.
 
 <h2>Instructions how to run the code</h2>
 <ol>
-  <li>first item</li>
-  <li>second item  <!-- closing </li> tag not here! -->
-    <ul>
-      <li>second item first subitem</li>
-      <li>second item second subitem</li>
-      <li>second item third subitem</li>
-    </ul>
-  </li>            <!-- Here's the closing </li> tag -->
-  <li>third item</li>
+  <li>download the project from Gitab and open it on vsCode</li>
+  <li>run the "NPM i" command in terminal</li>
+  <li>Go to startup/db folder and enter the database information:
+  <ol>
+    <li>username</li>
+    <li>password</li>
+    <li>cluster</li>
+    <li>dbname</li>
+   </ol>
+  </li>
+  <li>run the "node app" command in terminal</li>
+  <li>enter to postman and create a POST request => (http://localhost:3000/api/orders)</li>
+  <li>enter to postman and create a GET request => (http://localhost:3000/api/orders/lastday)</li>
 </ol>
+
+![alt text](http://url/to/img.png)
