@@ -22,8 +22,6 @@ a Backend API to manage their orders.
    </ol>
   </li>
   <li>run the "node app" command in terminal</li>
-  <li>enter to postman and create a POST request => (http://localhost:3000/api/orders)</li>
-  <li>enter to postman and create a GET request => (http://localhost:3000/api/orders/lastday)</li>
+  <li>enter to postman and create a POST request => (http://localhost:3000/api/orders)</li> => See a request in the attached POST request.text file
+  <li>enter to postman and create a GET request => (http://localhost:3000/api/orders/lastday)</li> => See a request in the attached GET request.text file
 </ol>
-
-![alt text](http://url/to/img.png)
