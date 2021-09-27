@@ -1,0 +1,54 @@
+[
+    {
+        "address": {
+            "city": "Carmiel",
+            "street": "Nahal Dan",
+            "houseNumber": "1",
+            "apartmentNumber": "10",
+            "floor": "4",
+            "entrance": "",
+            "comments": ""
+        },
+        "coustomerDatails": {
+            "firstName": "Gal",
+            "lastName": "Palas",
+            "phoneNumber": "0534244030",
+            "anotherPhone": "",
+            "email": "galpalas265@gmail.com",
+            "numberOfDiners": "2"
+        },
+        "payment": {
+            "cardValidity": {
+                "year": "2027",
+                "month": "09"
+            },
+            "subTotal": 7,
+            "creditCard": "************1123",
+            "id": "303122787",
+            "cvv": "399",
+            "numberOfPayments": "1"
+        },
+        "_id": "61518d452c0bdabc4d7147bc",
+        "orderSummary": [
+            {
+                "description": "The Og Burger",
+                "quantity": 2,
+                "rate": 20,
+                "comments": "Without onion"
+            },
+            {
+                "description": "Hot Chicken Sandos",
+                "quantity": 1,
+                "rate": 15,
+                "comments": "medium"
+            }
+        ],
+        "total": 35,
+        "discount": 0,
+        "tax": 17,
+        "date": "27/09/2021",
+        "createdAt": "2021-09-27T09:22:13.697Z",
+        "updatedAt": "2021-09-27T09:22:13.697Z",
+        "__v": 0
+    }
+]
