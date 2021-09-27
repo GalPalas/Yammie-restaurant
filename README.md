@@ -9,7 +9,7 @@ React.
 At this point they reached out to us and asked our developers to implement
 a Backend API to manage their orders.
 
-##Instructions how to run the code
+<h2>Instructions how to run the code</h2>
 <ol>
   <li>first item</li>
   <li>second item  <!-- closing </li> tag not here! -->
